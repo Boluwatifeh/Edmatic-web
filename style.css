@@ -627,7 +627,7 @@ button:focus {
 /*--------------------*/
 
 #mu-download {
-	background-image: url("assets/images/download-bg.jpeg");
+	background-image: url("assets/images/header-bg.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
